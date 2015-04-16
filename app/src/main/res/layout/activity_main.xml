@@ -14,5 +14,8 @@
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true"
         android:textSize="40dp"
-        />
+        android:background="#00FF00"
+        android:textColor="#ff0000"
+        android:textStyle="italic"/>
+
 </RelativeLayout>
